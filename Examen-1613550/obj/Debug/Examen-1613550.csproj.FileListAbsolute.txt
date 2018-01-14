@@ -1,0 +1,17 @@
+C:\Users\Samsung\AppData\Local\Temporary Projects\Examen-1613550\bin\Debug\Examen-1613550.exe.config
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\Examen-1613550.exe.config
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\obj\Debug\Examen-1613550.csprojResolveAssemblyReference.cache
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\Examen-1613550.exe
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\Examen-1613550.pdb
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\Mono.Security.dll
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\Npgsql.dll
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\Npgsql.pdb
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\Npgsql.xml
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\de\Npgsql.resources.dll
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\es\Npgsql.resources.dll
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\fi\Npgsql.resources.dll
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\fr\Npgsql.resources.dll
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\ja\Npgsql.resources.dll
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\bin\Debug\zh-CN\Npgsql.resources.dll
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\obj\Debug\Examen-1613550.exe
+d:\Usuarios\Samsung\Documents\Visual Studio 2012\Projects\Examen-1613550\Examen-1613550\obj\Debug\Examen-1613550.pdb
